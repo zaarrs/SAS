@@ -1,0 +1,45 @@
+.atas{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+#h1-1{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+#h1-2{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: -20px;
+}
+#p{
+    display: flex;
+    justify-content: center;
+    
+    text-align: center;
+    color: white;
+}
+.bawah{
+    display: flex;  
+    justify-content: center;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
+.bawah button{
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    align-items: center;
+    
+
+    
+}
+.container{
+    background-color: black;
+   width: 500px;
+   border-radius: 10px;
+   margin-left: 400px;
+
+}
